@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Jyothi Kalakoti",
+    "title": "Data Analyst",
+    "bio": "Data Analyst with 3+ years of experience analyzing complex financial and healthcare datasets to generate actionable insights. Skilled in Python, SQL, Tableau, and Power BI to build dashboards, optimize data pipelines, and support data-driven decision making."
+  },
+  "contact": {
+    "email": "Kalakotijyothi01@gmail.com",
+    "phone": "+1 (361) 765-9396",
+    "githubUsername": "",
+    "linkedin": "https://linkedin.com/in/kalakotijyothi",
+    "twitter": ""
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Jyothi Kalakoti - Data Analyst Portfolio",
+    "description": "Data Analyst specializing in Python, SQL, Power BI, Tableau, and large-scale data analytics."
+  }
+}

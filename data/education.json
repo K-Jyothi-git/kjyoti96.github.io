@@ -1,0 +1,27 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Texas A&M University, Corpus Christi, USA",
+      "period": "",
+      "description": "Graduate program focused on advanced computing concepts, data analytics, machine learning, and large-scale data processing.",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap",
+      "logo": "assets/images/tamu.svg"
+    },
+    {
+      "degree": "Bachelor of Technology in Computer Science Engineering",
+      "institution": "Usha Rama College of Engineering and Technology, Vijayawada, India",
+      "period": "",
+      "description": "Undergraduate program covering computer science fundamentals including programming, data structures, algorithms, and software engineering.",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-university",
+      "logo": "assets/images/usharama-logo.svg"
+    }
+  ],
+  "certificationsTitle": "Certifications",
+  "certifications": []
+}

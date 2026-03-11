@@ -1,0 +1,85 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Data Visualization & BI",
+      "icon": "fas fa-chart-line",
+      "color": "#667eea",
+      "image": "assets/images/tableau-logo.svg",
+      "skills": [
+        { "name": "Power BI", "image": "assets/images/powerbi-logo.svg" },
+        { "name": "Tableau", "image": "assets/images/tableau-logo.svg" },
+        { "name": "Advanced Excel", "image": "assets/images/excel-logo.svg" },
+        { "name": "Data Visualization", "image": "" }
+      ]
+    },
+    {
+      "category": "Programming & Libraries",
+      "icon": "fas fa-code",
+      "color": "#764ba2",
+      "image": "assets/images/python-logo.svg",
+      "skills": [
+        { "name": "Python", "image": "assets/images/python-logo.svg" },
+        { "name": "R", "image": "" },
+        { "name": "Pandas", "image": "assets/images/pandas-logo.svg" },
+        { "name": "NumPy", "image": "assets/images/numpy-logo.svg" },
+        { "name": "Matplotlib", "image": "assets/images/matplotlib-logo.svg" },
+        { "name": "Scikit-learn", "image": "" },
+        { "name": "TensorFlow", "image": "" }
+      ]
+    },
+    {
+      "category": "Databases & Data Warehousing",
+      "icon": "fas fa-database",
+      "color": "#f093fb",
+      "image": "assets/images/mysql-logo.svg",
+      "skills": [
+        { "name": "SQL", "image": "assets/images/sql-logo.svg" },
+        { "name": "MySQL", "image": "assets/images/mysql-logo.svg" },
+        { "name": "PostgreSQL", "image": "" },
+        { "name": "SQL Server", "image": "" },
+        { "name": "MongoDB", "image": "" },
+        { "name": "Snowflake", "image": "" }
+      ]
+    },
+    {
+      "category": "Cloud & Big Data",
+      "icon": "fas fa-cloud",
+      "color": "#4facfe",
+      "image": "assets/images/aws-logo.svg",
+      "skills": [
+        { "name": "Amazon Web Services (AWS)", "image": "assets/images/aws-logo.svg" },
+        { "name": "Apache Spark", "image": "" },
+        { "name": "Data Pipelines", "image": "" }
+      ]
+    },
+    {
+      "category": "Data Analytics Techniques",
+      "icon": "fas fa-chart-bar",
+      "color": "#00f2fe",
+      "image": "",
+      "skills": [
+        { "name": "Data Cleaning", "image": "" },
+        { "name": "Data Wrangling", "image": "" },
+        { "name": "Machine Learning", "image": "" },
+        { "name": "Clustering & Classification", "image": "" },
+        { "name": "Regression Analysis", "image": "" },
+        { "name": "A/B Testing", "image": "" },
+        { "name": "Forecasting & Modeling", "image": "" }
+      ]
+    },
+    {
+      "category": "Collaboration & Tools",
+      "icon": "fas fa-users",
+      "color": "#667eea",
+      "image": "",
+      "skills": [
+        { "name": "JIRA", "image": "" },
+        { "name": "GitHub", "image": "" },
+        { "name": "Agile Methodologies", "image": "" },
+        { "name": "Data Storytelling", "image": "" },
+        { "name": "Stakeholder Communication", "image": "" }
+      ]
+    }
+  ]
+}

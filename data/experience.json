@@ -1,0 +1,68 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Data Analyst",
+      "company": "Charles Schwab",
+      "location": "Texas, USA",
+      "period": "Jan 2025 – Present",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "logo": "assets/images/Charles_Schwab_Corporation_logo.svg",
+      "description": "",
+      "responsibilities": [
+        "Analyzed over 3M+ policyholder records and 24 months of claims data across life insurance and annuity products to identify risk patterns and inefficiencies in claims workflows.",
+        "Developed reusable data pipelines in Python using Pandas and NumPy to automate data cleaning, preprocessing, and transformation, improving data readiness by 15%.",
+        "Wrote optimized SQL queries in Snowflake to extract and aggregate data, reducing query execution time by 22%.",
+        "Assisted in developing machine learning models using Scikit-learn for fraud detection and patient risk prediction, improving fraud detection precision by 35%.",
+        "Built interactive Power BI dashboards to monitor claims volume, fraud risk scores, turnaround time, and operational KPIs for leadership reporting.",
+        "Automated monthly regulatory and risk reports using Excel VBA, reducing manual reporting effort and turnaround time by 8%.",
+        "Participated in Agile ceremonies using JIRA and managed analytics-related user stories and reporting enhancements."
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Snowflake",
+        "Excel",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "JIRA"
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Deloitte",
+      "location": "India",
+      "period": "Feb 2021 – Jul 2023",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "logo": "assets/images/deloitte-logo.svg",
+      "description": "",
+      "responsibilities": [
+        "Performed large-scale analysis of patient billing and claims datasets using Python and SQL to identify denial patterns, payment inconsistencies, and revenue leakage.",
+        "Applied Failure Mode and Effects Analysis (FMEA) to improve claims processing workflows and reduce claim rejection rates by 12%.",
+        "Designed Tableau dashboards tracking revenue cycle KPIs such as claim processing time and first-pass resolution rate, improving reporting efficiency by 30%.",
+        "Used K-Means clustering to segment providers and payers based on claim behavior, improving claim approval rates by 18%.",
+        "Processed more than 1.2 million billing records using Apache Spark for large-scale distributed data transformation.",
+        "Developed AWS CloudWatch monitoring and alerts to detect data pipeline failures and anomalies.",
+        "Conducted A/B testing to evaluate new claims workflows, reducing claim denials by 15%.",
+        "Implemented HIPAA and CMS compliance standards including PHI encryption and role-based access control."
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "Apache Spark",
+        "AWS",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "A/B Testing"
+      ]
+    }
+  ]
+}

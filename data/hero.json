@@ -1,0 +1,51 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "Jyothi Kalakoti",
+  "title": "Data Analyst",
+  "tagline": "Turning Complex Data into Meaningful Insights",
+  "summary": "Data Analyst with 3+ years of experience analyzing large-scale financial and healthcare datasets. Skilled in Python, SQL, Tableau, and Power BI to build dashboards, optimize data pipelines, and support data-driven business decisions.",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "color": "#667eea",
+      "text": "3+ Years Experience"
+    },
+    {
+      "icon": "fas fa-database",
+      "color": "#764ba2",
+      "text": "3M+ Records Analyzed"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "color": "#f093fb",
+      "text": "Data Analytics & BI"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "href": "#projects",
+        "type": "primary",
+        "icon": "fas fa-folder-open",
+        "text": "View Projects"
+      },
+      {
+        "href": "#contact",
+        "type": "secondary",
+        "icon": "fas fa-envelope",
+        "text": "Contact Me"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/in/jyothi-kalakoti-11785b21b/",
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "scrollIndicator": {
+    "text": "Scroll to explore",
+    "icon": "fas fa-chevron-down"
+  }
+}

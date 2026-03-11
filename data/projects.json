@@ -1,0 +1,197 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Data Analytics Project",
+      "description": "Comprehensive data analytics project exploring software design patterns and data analysis workflows using Python and Jupyter Notebook.",
+      "color": "#667eea",
+      "icon": "fas fa-chart-line",
+      "image": "assets/images/python-logo.svg",
+      "technologies": ["Python", "Jupyter Notebook", "Data Analysis"],
+      "keyFeatures": [
+        "Data exploration",
+        "Analytical workflows",
+        "Insight generation"
+      ],
+      "projectType": "Data Analytics",
+      "highlight": "Data exploration",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/data-analyatics-projct",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Online Grocery Retail Analysis",
+      "description": "Data analysis project focused on understanding online grocery retail datasets and identifying purchasing patterns.",
+      "color": "#4facfe",
+      "icon": "fas fa-shopping-basket",
+      "image": "assets/images/python-logo.svg",
+      "technologies": ["Python", "Pandas", "Data Analysis"],
+      "keyFeatures": [
+        "Retail dataset analysis",
+        "Customer purchase insights",
+        "Data visualization"
+      ],
+      "projectType": "Data Analytics",
+      "highlight": "Retail insights",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/Online-grocery",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Customer Churn Prediction",
+      "description": "Machine learning classification model predicting customer churn using behavioral and historical customer data.",
+      "color": "#764ba2",
+      "icon": "fas fa-user-minus",
+      "image": "assets/images/python-logo.svg",
+      "technologies": ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
+      "keyFeatures": [
+        "Customer churn prediction",
+        "Machine learning classification",
+        "Customer behavior analysis"
+      ],
+      "projectType": "Machine Learning",
+      "highlight": "Predictive analytics",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/customer-churn-prediction",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "Anomaly Detection System",
+      "description": "Implemented machine learning algorithms to detect anomalies and outliers in datasets for monitoring and fraud detection scenarios.",
+      "color": "#f093fb",
+      "icon": "fas fa-exclamation-triangle",
+      "image": "assets/images/jupyter-logo.svg",
+      "technologies": ["Python", "Machine Learning", "Jupyter Notebook"],
+      "keyFeatures": [
+        "Outlier detection",
+        "Pattern recognition",
+        "Anomaly detection models"
+      ],
+      "projectType": "Machine Learning",
+      "highlight": "Anomaly detection",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/anomaly-detection",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "HR Analytics Employee Attrition Prediction",
+      "description": "Machine learning project analyzing HR datasets to predict employee attrition and understand workforce trends.",
+      "color": "#00f2fe",
+      "icon": "fas fa-users",
+      "image": "assets/images/pandas-logo.svg",
+      "technologies": ["Python", "Pandas", "Machine Learning"],
+      "keyFeatures": [
+        "Attrition prediction",
+        "HR analytics insights",
+        "Feature importance analysis"
+      ],
+      "projectType": "Machine Learning",
+      "highlight": "HR predictive analytics",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/hr-analytics-employee-attrition-and-performance-prediction",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Retail Data Analytics Project",
+      "description": "Retail dataset analysis project focusing on sales trends, customer behavior, and business performance insights.",
+      "color": "#667eea",
+      "icon": "fas fa-store",
+      "image": "assets/images/sql-logo.svg",
+      "technologies": ["Python", "SQL", "Data Analysis"],
+      "keyFeatures": [
+        "Retail sales analysis",
+        "Business insights",
+        "Trend identification"
+      ],
+      "projectType": "Data Analytics",
+      "highlight": "Retail analytics",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/Retail-Data-analytics-project",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Trade Data Analysis",
+      "description": "Exploratory data analysis project analyzing global trade datasets to uncover patterns and trends.",
+      "color": "#764ba2",
+      "icon": "fas fa-globe",
+      "image": "assets/images/python-logo.svg",
+      "technologies": ["Python", "Pandas", "Data Visualization"],
+      "keyFeatures": [
+        "Trade data exploration",
+        "Visualization dashboards",
+        "Trend analysis"
+      ],
+      "projectType": "Data Analysis",
+      "highlight": "Trade insights",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/Trade-data-analysis",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "SQL Data Analysis and Visualization",
+      "description": "Project demonstrating SQL queries and data visualization techniques to analyze structured datasets.",
+      "color": "#f093fb",
+      "icon": "fas fa-database",
+      "image": "assets/images/sql-logo.svg",
+      "technologies": ["SQL", "Python", "Data Visualization"],
+      "keyFeatures": [
+        "SQL query optimization",
+        "Data visualization",
+        "Analytical reporting"
+      ],
+      "projectType": "Data Analytics",
+      "highlight": "SQL analytics",
+      "links": {
+        "github": "https://github.com/K-Jyothi-git/sql-data-analysis-and-visualization-",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    }
+  ]
+}

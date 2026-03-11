@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "Jyothi Kalakoti",
+    "href": "#home"
+  },
+  "menuItems": [
+    {
+      "href": "#home",
+      "icon": "fas fa-home",
+      "text": "Home"
+    },
+    {
+      "href": "#about",
+      "icon": "fas fa-user",
+      "text": "About"
+    },
+    {
+      "href": "#experience",
+      "icon": "fas fa-briefcase",
+      "text": "Experience"
+    },
+    {
+      "href": "#education",
+      "icon": "fas fa-graduation-cap",
+      "text": "Education"
+    },
+    {
+      "href": "#projects",
+      "icon": "fas fa-project-diagram",
+      "text": "Projects"
+    },
+    {
+      "href": "#skills",
+      "icon": "fas fa-code",
+      "text": "Skills"
+    },
+    {
+      "href": "#contact",
+      "icon": "fas fa-envelope",
+      "text": "Contact"
+    }
+  ]
+}

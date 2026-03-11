@@ -1,0 +1,23 @@
+{
+  "tagline": "Transforming complex datasets into meaningful insights through data analytics and visualization.",
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/in/jyothi-kalakoti-11785b21b/",
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "copyright": {
+    "text": "© 2026 Jyothi Kalakoti. All rights reserved."
+  },
+  "links": [
+    {
+      "href": "#",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "#",
+      "text": "Terms of Service"
+    }
+  ]
+}

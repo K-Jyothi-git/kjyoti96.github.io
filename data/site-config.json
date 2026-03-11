@@ -1,0 +1,13 @@
+{
+  "title": "Jyothi Kalakoti - Data Analyst Portfolio",
+  "description": "Professional portfolio showcasing data analytics projects, dashboards, and machine learning work by Jyothi Kalakoti.",
+  "author": "Jyothi Kalakoti",
+  "keywords": "Data Analysis, Python, SQL, Tableau, Power BI, Pandas, NumPy, Machine Learning, Data Visualization, AWS, Apache Spark, Data Cleaning, Data Wrangling, Business Intelligence, Analytics",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}
