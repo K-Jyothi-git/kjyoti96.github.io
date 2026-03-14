@@ -300,7 +300,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-- Design & Development: [Your Name]
+- Design & Development: Jyothi Kalakoti
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Fonts: [Google Fonts](https://fonts.google.com/)
 - Particles: [Particles.js](https://vincentgarreau.com/particles.js/)
@@ -321,4 +321,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Made with ❤️ and lots of coffee**
 
-If you found this template helpful, please give it a star ⭐
+If you found this template helpful, please give it a star.
