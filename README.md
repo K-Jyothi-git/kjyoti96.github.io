@@ -321,4 +321,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Made with ❤️ and lots of coffee**
 
-If you found this template helpful, please give it a star.
+If you found this template helpful, please give it a star....
