@@ -3,12 +3,13 @@
    ============================================ */
 :root {
     /* Color Palette - Vibrant Dark Theme */
-    --color-bg-dark: #0a0e27;
-    --color-bg-darker: #060917;
-    --color-bg-light: #151a35;
-    --color-text-primary: #ffffff;
-    --color-text-secondary: #b8c5d6;
-    --color-text-muted: #7a8ba3;
+    --color-bg-dark: #f8fafc;        /* main background (soft white) */
+    --color-bg-darker: #eef2f7;      /* sections / cards background */
+    --color-bg-light: #ffffff;       /* pure white blocks */
+
+    --color-text-primary: #0f172a;   /* dark navy text (better than black) */
+    --color-text-secondary: #334155; /* medium contrast text */
+    --color-text-muted: #64748b;     /* subtle muted text */
 
     /* Vibrant Accent Colors */
     --color-accent-1: #FF6B6B;
